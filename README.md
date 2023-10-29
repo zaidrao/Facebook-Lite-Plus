@@ -38,5 +38,5 @@ If you encounter any bug, error and crash you can contact me on facebook.
 Click the download button to download latest release app.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://github.com/zaidrao/Facebook-Lite-Plus/releases/download/12/Lite+.1.2.apk)
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download apk")](https://github.com/zaidrao/Facebook-Lite-Plus/releases/download/13/Lite+.1.3.apk)
 <!-- END LATEST DOWNLOAD BUTTON -->
